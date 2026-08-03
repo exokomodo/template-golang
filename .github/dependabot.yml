@@ -7,7 +7,7 @@ updates:
     commit-message:
       prefix: "chore(deps/github-actions): "
     labels:
-      - "dependabot"
+      - dependabot
   - package-ecosystem: gomod
     directory: /
     schedule:
@@ -15,4 +15,4 @@ updates:
     commit-message:
       prefix: "chore(deps/golang): "
     labels:
-      - "dependabot"
+      - dependabot
