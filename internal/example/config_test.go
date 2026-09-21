@@ -3,7 +3,7 @@ package example_test
 import (
 	"testing"
 
-	"github.com/jamesaorson/template-golang/internal/example"
+	"github.com/exokomodo/template-golang/internal/example"
 )
 
 func validateConfig(t *testing.T, config example.Config) {
