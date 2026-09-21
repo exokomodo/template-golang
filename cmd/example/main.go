@@ -4,7 +4,7 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/jamesaorson/template-golang/internal/example"
+	"github.com/exokomodo/template-golang/internal/example"
 )
 
 func main() {
