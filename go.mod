@@ -1,4 +1,4 @@
-module github.com/jamesaorson/template-golang
+module github.com/exokomodo/template-golang
 
 go 1.25.7
 
